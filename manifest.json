@@ -9,7 +9,7 @@
     "bar-widget"
   ],
   "entryPoints": {
-    "barWidget": "BarWidget.qml"
+    "barWidget": "scripts/quickshell/BarWidget.qml"
   },
   "barWidget": {
     "displayName": "OmaTUNES",
